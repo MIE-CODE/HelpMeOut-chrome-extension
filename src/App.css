@@ -1,0 +1,9 @@
+.h1{
+    @apply text-center text-black font-sora font-semibold leading-none text-[2rem]
+}
+.footer_link{
+    @apply font-work_sans font-light text-[.9rem] transition ease-in-out duration-300 hover:text-[#FFD700] transform hover:translate-y-4
+}
+.login_button{
+    @apply bg-[#fff] text-black block w-full flex items-center justify-center gap-[1rem] border-[1px] font-inter border-[#141414] py-2 rounded-md
+}
